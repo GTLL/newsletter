@@ -2,7 +2,7 @@
 
 #Contenu de la dépêche
 
-Le[Goupe Thématique Logiciel Libre (GTLL)](http://www.systematic-paris-region.org/fr/logiciel-libre) rassemble une centaine d'entreprises et académiques en île de France pour créer de la valeur et innover avec le logiciel libre.
+Le [Goupe Thématique Logiciel Libre (GTLL)](http://www.systematic-paris-region.org/fr/logiciel-libre) rassemble une centaine d'entreprises et académiques en île de France pour créer de la valeur et innover avec le logiciel libre.
 
 Afin de mieux faire connaître ses actions et d'ouvrir ses portes à d'autres membres de l'écosystème du libre, le GTLL publie chaque mois un compte rendu de ses activités. Il sélectionne également des nouvelles et opportunités qui peuvent intéresser ses membres, et au delà toutes les personnes qui
 s'intéressent à l'écosystème logiciel libre.
@@ -13,68 +13,30 @@ s'intéressent à l'écosystème logiciel libre.
 
 ## Edito - Bilan de l'Open World Forum
 
-L'[Open World Forum](http://www.openworldforum.org/), événement dédié à
-l'écosystème du libre et à la société numérique ouverte organisé par le
-pôle Systematic, a permis, comme chaque année, à nombre d'entre nous de
-nous retrouver en octobre.
+L'[Open World Forum](http://www.openworldforum.org/), événement dédié à l'écosystème du libre et à la société numérique ouverte organisé par le pôle Systematic, a permis, comme chaque année, à nombre d'entre nous de nous retrouver en octobre.
 
-Le GTLL s'est fortement impliqué dans cet événement, aussi bien au
-niveau de son COPIL (avec 6 membres impliquées comme *track leaders*),
-que de ses membres (17 *track leaders* venant du GT, plus de 50
-*speakers*). Grâce à ces efforts, une partie importante du programme,
-par ailleurs riche et varié, était en adéquation avec la roadmap et les
-préoccupations du GTLL, et un grand nombre d'éditeurs de technologies ou
-de solutions membres du GT ont pu s'exprimer lors des différentes
-sessions.
+Le GTLL s'est fortement impliqué dans cet événement, aussi bien au niveau de son COPIL (avec 6 membres impliquées comme *track leaders*), que de ses membres (17 *track leaders* venant du GT, plus de 50*speakers*). Grâce à ces efforts, une partie importante du programme, par ailleurs riche et varié, était en adéquation avec la roadmap et les préoccupations du GTLL, et un grand nombre d'éditeurs de technologies ou de solutions membres du GT ont pu s'exprimer lors des différentes sessions.
 
-En terme d'audience, l'Open World Forum 2012 a réuni plus de 1500
-visiteurs uniques professionnels cette année. Grâce à son organisation
-"multi tracks", l'événement a séduit aussi bien les développeurs, les
-chefs d'entreprises que les DSI. La présence de Fleur Pellerin, ministre
-déléguée chargée des PME, de l'Innovation et de l'Économie numérique, et
-de Jerome Filippini (DSI de l'état) en ouverture ont également ajouté à
-l'intérêt et au prestige de l'événement.
+En terme d'audience, l'Open World Forum 2012 a réuni plus de 1500 visiteurs uniques professionnels cette année. Grâce à son organisation "multi tracks", l'événement a séduit aussi bien les développeurs, les chefs d'entreprises que les DSI. La présence de Fleur Pellerin, ministre déléguée chargée des PME, de l'Innovation et de l'Économie numérique, et de Jerome Filippini (DSI de l'état) en ouverture ont également ajouté à l'intérêt et au prestige de l'événement.
 
-Merci à tous pour votre participation. L'édition 2013 commence à se
-préparer dès aujourd'hui : n'hésitez pas à nous contacter pour nous
-faire part de vos suggestions ou de vos propositions de participation à
-l'organisation. 
+Merci à tous pour votre participation. L'édition 2013 commence à se préparer dès aujourd'hui : n'hésitez pas à nous contacter pour nous faire part de vos suggestions ou de vos propositions de participation à l'organisation. 
 
 Stefane Fermigier, Pdt du GTLL
 
 ### Retrouvez les contenus produits pendant l'Open World Forum
 
--   [83 présentations](http://fr.slideshare.net/OpenWorldForum) déjà
-    collectées sur SlideShare. N'oubliez pas d'envoyer la votre, si ce
-    n'est pas déjà fait !
--   227 videos sur
-    [YouTube](http://www.youtube.com/OpenWorldForum?feature=watch) et
-    sur [Open world forum TV](http://openworldforum.tv/)
--   Plus de [1000
-    Photos](http://www.flickr.com/photos/67985356@N07/sets/) - si vous y
-    étiez, il y a probablement une photo où vous figurez !
--   Le [Guide des solutions open
-    source](http://signup.guide-solutions-opensource.com/), pour lequel
-    les membres du GTLL ont été sollicités, et qui fait la part belle à
-    leur solutions, a été tiré à 500 exemplaire et distribué aux DSI
-    présents lors de l'OWF.
--   Découvrez aussi les trois vainqueurs de la [Demo Cup
-    2012](http://www.systematic-paris-region.org/fr/communiques/bluemind-docdoku-et-hippo-remportent-la-4-me-open-innovation-awards-lopen-world-forum)
-    : [Bluemind](http://www.blue-mind.net/),
-    [Docdoku](http://www.docdoku.com/) et
-    [Hippo](http://www.onehippo.com) - et pensez à participer l'an
-    prochain !
+-   [83 présentations](http://fr.slideshare.net/OpenWorldForum) déjà collectées sur SlideShare. N'oubliez pas d'envoyer la votre, si ce n'est pas déjà fait !
+-   227 videos sur[YouTube](http://www.youtube.com/OpenWorldForum?feature=watch) et sur [Open world forum TV](http://openworldforum.tv/)
+-   Plus de [1000 Photos](http://www.flickr.com/photos/67985356@N07/sets/) - si vous y étiez, il y a probablement une photo où vous figurez !
+-   Le [Guide des solutions open source](http://signup.guide-solutions-opensource.com/), pour lequel les membres du GTLL ont été sollicités, et qui fait la part belle à leur solutions, a été tiré à 500 exemplaire et distribué aux DSI présents lors de l'OWF.
+-   Découvrez aussi les trois vainqueurs de la [Demo Cup 2012](http://www.systematic-paris-region.org/fr/communiques/bluemind-docdoku-et-hippo-remportent-la-4-me-open-innovation-awards-lopen-world-forum): [Bluemind](http://www.blue-mind.net/),[Docdoku](http://www.docdoku.com/) et[Hippo](http://www.onehippo.com) - et pensez à participer l'an prochain !
 
 ## Vie et nouveaux membres du GTLL
 
 Le GTLL a franchi ce mois-ci le cap des 100 membres, avec deux nouveaux
 membres auditionnés lors du COPIL du 19 octobre :
 
--   [Ubimix](http://ubimix.com/) : Editeur de logiciel libre pour
-    l’édition de livres numériques et le cross-média. Ubimix a par
-    exemple permis de générer en un temps record la version web et
-    mobile du [guide des solutions open
-    source](http://signup.guide-solutions-opensource.com/).
+-   [Ubimix](http://ubimix.com/) : Editeur de logiciel libre pour l’édition de livres numériques et le cross-média. Ubimix a par exemple permis de générer en un temps record la version web et mobile du [guide des solutions open source](http://signup.guide-solutions-opensource.com/).
 -   [Innovacall](http://innovacall.com) : Editeur d’un framework de
     développement web open source pour entreprise basé sur asp.net mvc.
     Innovacall pourra entre autre nous aider à faire des passerelles
