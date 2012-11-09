@@ -4,10 +4,7 @@
 
 Le [Goupe Thématique Logiciel Libre (GTLL)](http://www.systematic-paris-region.org/fr/logiciel-libre) rassemble une centaine d'entreprises et académiques en île de France pour créer de la valeur et innover avec le logiciel libre.
 
-Afin de mieux faire connaître ses actions et d'ouvrir ses portes à d'autres membres de l'écosystème du libre, le GTLL publie chaque mois un compte rendu de ses activités. Il sélectionne également des nouvelles et opportunités qui peuvent intéresser ses membres, et au delà toutes les personnes qui
-s'intéressent à l'écosystème logiciel libre.
-
-
+Afin de mieux faire connaître ses actions et d'ouvrir ses portes à d'autres membres de l'écosystème du libre, le GTLL publie chaque mois un compte rendu de ses activités. Il sélectionne également des nouvelles et opportunités qui peuvent intéresser ses membres, et au delà toutes les personnes qui s'intéressent à l'écosystème logiciel libre.
 
 #Seconde partie
 
@@ -155,8 +152,7 @@ Plusieurs tables rondes intéressantes et auxquelles participeront des membres d
 
 Conférences et ateliers destinés à toutes les personnes qui s'intéressent au projet Debian. L'événement est hébergé par l'EPITA et soutenu par Logilab (2 membres du GTLL). [Plus d'information](http://fr2012.mini.debconf.org/)
 
-### OpenStack in Action 3 - Paris Eurosite Republique - 29 Novembre
-2012
+### OpenStack in Action 3 - Paris Eurosite Republique - 29 Novembre 2012
 
 Un événement destiné à toutes les personnes qui s'intéressent au projet OpenStack, organisé par eNovance, membre du GTLL. [Plus d'information](http://openstackinaction3theopenrevolution.eventbrite.com/)
 
@@ -175,15 +171,15 @@ Zenika, membre du GTLL a participé à cette mission. Si vous souhaitez connaît
 
 Contactez [Julien Marboutin](mailto:j.marboutin@systematic-paris-region.org) si vous êtes intéressé pour participer.
 
-#### Workshop MOOC
+### Workshop MOOC
 
 Suite au succès récent des [MOOC](http://en.wikipedia.org/wiki/Massive_open_online_course) (Massive Open Online Course) en provenance des Etats-Unis, plusieurs membres du GTLL intéressés souhaitent se réunir pour réfléchir à une action commune dans ce domaine. 
 
-#### Mission Chili
+### Mission Chili
 
 Plusieurs membres du GTLL sont intéressés pour participer à une mission prospection au Chili. Le Chili est un pays dynamique sur le plan économique, et une porte d'entrée vers le marché en pleine croissance de l'amérique du Sud.
 
-#### Workshop "Modèles économiques Open Source"
+### Workshop "Modèles économiques Open Source"
 
 Plusieurs membres du GTLL, et notamment plusieurs éditeurs, ont manifesté leur intérêt pour organiser un workshop sur ce thème et partager leurs expériences.
 
