@@ -2,21 +2,21 @@
 
 #Contenu de la dépêche
 
-Le [Goupe Thématique Logiciel Libre (GTLL)](http://www.systematic-paris-region.org/fr/logiciel-libre) rassemble une centaine d'entreprises et académiques en île de France pour créer de la valeur et innover avec le logiciel libre.
+Le [Goupe Thématique Logiciel Libre (GTLL)](http://www.systematic-paris-region.org/fr/logiciel-libre) rassemble une centaine d'entreprises et de laboratoires de recherche en île-de-France et vise à renforcer la compétitivité des entreprises par l'innovation et la collaboration autour du logiciel libre.
 
-Afin de mieux faire connaître ses actions et d'ouvrir ses portes à d'autres membres de l'écosystème du libre, le GTLL publie chaque mois un compte rendu de ses activités. Il sélectionne également des nouvelles et opportunités qui peuvent intéresser ses membres, et au delà toutes les personnes qui s'intéressent à l'écosystème logiciel libre.
+Le GTLL publie chaque mois, sous forme de [lettre d'information](http://eepurl.com/kqFVT), un compte-rendu de ses activités, des opportunités qui peuvent intéresser ses membres, et des événements qu'il organise ou auquel il participe, directement ou indirectement.
+
+Nous reprenons ci-dessous l'essentiel du contenu de cette newsletter, en pensant que certaines des informations qu'elle contient seront utiles au reste de la communauté du logiciel libre.
 
 #Seconde partie
 
-## Edito - Bilan de l'Open World Forum
+## Edito - Bilan de l'Open World Forum 2012
 
 L'[Open World Forum](http://www.openworldforum.org/), événement dédié à l'écosystème du libre et à la société numérique ouverte organisé par le pôle Systematic, a permis, comme chaque année, à nombre d'entre nous de nous retrouver en octobre.
 
-Le GTLL s'est fortement impliqué dans cet événement, aussi bien au niveau de son COPIL (avec 6 membres impliquées comme *track leaders*), que de ses membres (17 *track leaders* venant du GT, plus de 50*speakers*). Grâce à ces efforts, une partie importante du programme, par ailleurs riche et varié, était en adéquation avec la roadmap et les préoccupations du GTLL, et un grand nombre d'éditeurs de technologies ou de solutions membres du GT ont pu s'exprimer lors des différentes sessions.
-
 En terme d'audience, l'Open World Forum 2012 a réuni plus de 1500 visiteurs uniques professionnels cette année. Grâce à son organisation "multi tracks", l'événement a séduit aussi bien les développeurs, les chefs d'entreprises que les DSI. La présence de Fleur Pellerin, ministre déléguée chargée des PME, de l'Innovation et de l'Économie numérique, et de Jerome Filippini (DSI de l'état) en ouverture ont également ajouté à l'intérêt et au prestige de l'événement.
 
-Merci à tous pour votre participation. L'édition 2013 commence à se préparer dès aujourd'hui : n'hésitez pas à nous contacter pour nous faire part de vos suggestions ou de vos propositions de participation à l'organisation. 
+Merci à tous pour votre participation. L'édition 2013 commence à se préparer dès aujourd'hui : n'hésitez pas à nous contacter pour nous faire part de vos suggestions ou de vos propositions de participation à l'organisation.
 
 Stefane Fermigier, Pdt du GTLL
 
@@ -30,15 +30,14 @@ Stefane Fermigier, Pdt du GTLL
 
 ## Vie et nouveaux membres du GTLL
 
-Le GTLL a franchi ce mois-ci le cap des 100 membres, avec deux nouveaux
-membres auditionnés lors du COPIL du 19 octobre :
+Le GTLL a franchi ce mois-ci le cap des 100 membres, avec deux nouveaux membres :
 
 -   [Ubimix](http://ubimix.com/) : Editeur de logiciel libre pour l’édition de livres numériques et le cross-média. Ubimix a par exemple permis de générer en un temps record la version web et mobile du [guide des solutions open source](http://signup.guide-solutions-opensource.com/).
 -   [Innovacall](http://innovacall.com) : Editeur d’un framework de développement web open source pour entreprise basé sur asp.net mvc. Innovacall pourra entre autre nous aider à faire des passerelles entre des logiciels ou des projets portés par des membres du GTLL, et le monde microsoft .net.
 
-La dernière réunion du [comité de pilotage du GTLL](http://www.systematic-paris-region.org/fr/logiciel-libre/propos/gouvernance) a eu lieu le 19 octobre. La prochaine réunion du comité de pilotage aura lieu le vendredi 16 novembre. Elle portera principalement sur la labellisation des projets FUI et sur l'audition de nouveaux membres. Le comité de pilotage du GTLL accueille ce mois-ci un nouveau membre en la personne de Philippe Montargès, co-président et co-fondateur de la société [Alter Way](http://www.alterway.fr/).
-
 ## Usine à projets
+
+L'une des principales activités du GTLL consiste à mettre en relation des partenaires autour de projets de R&D autour du logiciel libre. C'est ce qu'on appelle familièrement "l'usine à projets". Ainsi, 33 projets ont été montés en 5 ans, pour un effort total estimé à plus de 130 millions d'Euros.
 
 ### Nouvelles de projets financés en cours
 
@@ -48,8 +47,7 @@ Le projet porté par Bull, a permit de développer le premier Cloud Broker Open 
 
 #### Projet Richelieu (FUI14)
 
-Le projet, porté par [Scilab
-Enterprises](http://www.scilab-enterprises.com/), vise à industrialiser et adapter [VMKit](http://vmkit.llvm.org/) pour traiter les problématiques des langages de programmation scientifique, notamment les performances grâce à la compilation “JIT”. D’un montant de 2,1 M€, et d'une durée de 2 ans, il est financé pour 0,9 M€ par le FUI et les collectivités territoriales d’IdF. Le projet implique les partenaires suivants : Scilab Enterprises, Université Pierre et Marie Curie (UPMC), Dassault Aviation, ArcelorMittal, CNES, Silkan, OCamlPro et Inria Saclay. La réunion de lancement du projet a eu lieu vendredi 26 octobre dans les locaux IRILL-ICT Labs à Paris. Les premiers résultats du projet devraient être présentés lors de la conférence EuroLLVM 2013 à Paris.
+Le projet, porté par [Scilab Enterprises](http://www.scilab-enterprises.com/), vise à industrialiser et adapter [VMKit](http://vmkit.llvm.org/) pour traiter les problématiques des langages de programmation scientifique, notamment les performances grâce à la compilation “JIT”. D’un montant de 2,1 M€, et d'une durée de 2 ans, il est financé pour 0,9 M€ par le FUI et les collectivités territoriales d’IdF. Le projet implique les partenaires suivants : Scilab Enterprises, Université Pierre et Marie Curie (UPMC), Dassault Aviation, ArcelorMittal, CNES, Silkan, OCamlPro et Inria Saclay. La réunion de lancement du projet a eu lieu vendredi 26 octobre dans les locaux IRILL-ICT Labs à Paris. Les premiers résultats du projet devraient être présentés lors de la conférence EuroLLVM 2013 à Paris.
 
 #### Projet SafePython (FUI14)
 
@@ -57,7 +55,7 @@ Le projet, porté par Wallix, vise à concevoir, développer et valider des outi
 
 ### Appel à projets FUI
 
-L’appel à projet du FUI (Fond Unique Interministériel) finance des projets de R&D collaboratifs, labellisés par un pôle de compétitivité et impliquant au moins deux entreprises et un laboratoire ou centre de recherche. L’enveloppe globale des aides accordées à cette occasion devrait à priori rester similaire aux précédentes éditions de l'appel à projet (aux alentours de 100 millions € environ).
+L’appel à projet du FUI (Fond Unique Interministériel) est le principal instrument de financement des projets du GTLL. Il finance des projets de R&D collaboratifs, labellisés par un pôle de compétitivité et impliquant au moins deux entreprises et un laboratoire ou centre de recherche. L’enveloppe globale des aides accordées à cette occasion devrait à priori rester similaire aux précédentes éditions de l'appel à projet (aux alentours de 100 millions € environ).
 
 #### Appel à projet FUI 15 : calendrier et principaux jalons restants dans la préparation des projets
 
@@ -75,7 +73,7 @@ N'hésitez pas à commencer dès aujourd'hui à discuter de premières idées de
 
 ### Appels à projets européens
 
-Votre contact Systematic pour projet les projets européens : [Isabelle de Sutter](mailto:i.desutter@systematic-paris-region.org)
+Le GTLL encourage également ses membres à participer à des appels à projets européens.
 
 #### FP7 ICT Call 10
 
@@ -124,7 +122,9 @@ Vous pouvez [télécharger la charte en ligne](http://www.educationjobandfloss.o
 
 Roberto Di Cosmo, Stéphane Fermigier et Partice Bertrand, tous trois membres du COPIL du GTLL, ont publié dans le journal Le Monde une [tribune](http://www.lemonde.fr/sciences/article/2012/10/18/il-faut-enseigner-le-logiciel-libre-en-france_1777703_1650684.html) sur l'urgence et la nécessité d'enseigner le logiciel libre en France.
 
-## Evènements à venir
+## Evénements à venir
+
+Les événements qui suivent sont organisés par le GTLL, le Pôle Systematic, ou par des membres du GTLL.
 
 ### JS.everywhere - Paris 75010 - 16 et 17 novembre 2012
 
@@ -138,7 +138,7 @@ A l'INSEE dans le grand amphithéatre de l'ENSAE, à partir de 18h30. Plusieurs 
 
 Prof. Roberto Bagnara de l'Université de Parma viendra présenter une introduction informelle aux méthodes formelles de 10h à 12h. Cette conférence est surtout destinée aux professionnels qui veulent avoir un aperçu global des diverses methodes formelles actuellement disponibles. Elle est proposée par un chercheur qui se soucie de travailler avec les entreprises. [Plus d'information](http://www.irill.org/events/une-introduction-informelle-aux-methodes-formelles-par-prof.-roberto-bagnara-universite-de-parma)
 
-### Journée du logiciel libre et de l'innovation ouverte - Bordeaux - 21 Novembre 2012 
+### Journée du logiciel libre et de l'innovation ouverte - Bordeaux - 21 Novembre 2012
 
 Plusieurs tables rondes intéressantes et auxquelles participeront des membres du GTLL. [Programme, accès et inscription en ligne](http://pole-aquinetic.fr/21-11-12)
 
@@ -158,14 +158,13 @@ Un événement destiné à toutes les personnes qui s'intéressent au projet Ope
 
 ### Appel à conférence sysadmin \#4 - 28 Février et 1 Mars 2013
 
-[Plus
-d'information](http://blog.asyd.net/2012/11/reappel-a-conference-pour-sysadmin-4/)
+[Plus d'information](http://blog.asyd.net/2012/11/reappel-a-conference-pour-sysadmin-4/)
 
 ## International
 
-### Compte rendu de la mission US de septembre 2012
+### Compte rendu de la mission US de septembre 2012 sur le Big Data
 
-Zenika, membre du GTLL a participé à cette mission. Si vous souhaitez connaître les initiatives d'accompagnement prospection à l'international proposées aux entreprises franciliennes innovantes et portées par la CCI Paris et le pôle Systematic, vous trouverez intéressant de lire ce [compte rendu](http://fr.slideshare.net/Matthiasfille/compte-rendu-mission-us-sept-2012?goback=.gmp_1936627.gde_1936627_member_183318772) de la dernière mission US de septembre 2012 qui était axée sur l'accompagnement de startups évoluant dans les domaines suivants "big data, data analytics, real time data integration, data visualization".
+Zenika, membre du GTLL, a participé à cette mission. Si vous souhaitez connaître les initiatives d'accompagnement prospection à l'international proposées aux entreprises franciliennes innovantes et portées par la CCI Paris et le pôle Systematic, vous trouverez intéressant de lire ce [compte rendu](http://fr.slideshare.net/Matthiasfille/compte-rendu-mission-us-sept-2012?goback=.gmp_1936627.gde_1936627_member_183318772) de la dernière mission US de septembre 2012 qui était axée sur l'accompagnement de startups évoluant dans les domaines suivants "big data, data analytics, real time data integration, data visualization".
 
 ## Appel à manifestation d'intérêt
 
@@ -173,7 +172,7 @@ Contactez [Julien Marboutin](mailto:j.marboutin@systematic-paris-region.org) si 
 
 ### Workshop MOOC
 
-Suite au succès récent des [MOOC](http://en.wikipedia.org/wiki/Massive_open_online_course) (Massive Open Online Course) en provenance des Etats-Unis, plusieurs membres du GTLL intéressés souhaitent se réunir pour réfléchir à une action commune dans ce domaine. 
+Suite au succès récent des [MOOC](http://en.wikipedia.org/wiki/Massive_open_online_course) (Massive Open Online Course) en provenance des Etats-Unis, plusieurs membres du GTLL intéressés souhaitent se réunir pour réfléchir à une action commune dans ce domaine.
 
 ### Mission Chili
 
