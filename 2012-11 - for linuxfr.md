@@ -1,20 +1,18 @@
 # Lettre d'information du Groupe Thématique Logiciel Libre n°6
 
-**novembre 2012**
+#Contenu de la dépêche
 
-Le GTLL (Groupe Thématique Logiciel Libre du pôle Systematic) vous
-infome chaque mois de ses actions et des événements marquants de son
-écosystème. Il sélectionne également des nouvelles et opportunités qui
-peuvent intéresser ses membres, et au delà toutes les personnes qui
+Le[Goupe Thématique Logiciel Libre (GTLL)](http://www.systematic-paris-region.org/fr/logiciel-libre) rassemble une centaine d'entreprises et académiques en île de France pour créer de la valeur et innover avec le logiciel libre.
+
+Afin de mieux faire connaître ses actions et d'ouvrir ses portes à d'autres membres de l'écosystème du libre, le GTLL publie chaque mois un compte rendu de ses activités. Il sélectionne également des nouvelles et opportunités qui peuvent intéresser ses membres, et au delà toutes les personnes qui
 s'intéressent à l'écosystème logiciel libre.
 
-Si le contenu de cette newsletter vous semble pertinent, vous pouvez
-proposer à vos contacts (amis, clients, collègues...) de s'y abonner sur
-[ce lien](http://eepurl.com/kqFVT).
+
+
+#Seconde partie
 
 ## Edito - Bilan de l'Open World Forum
 
-![image](https://d2q0qd5iz04n9u.cloudfront.net/_ssl/proxy.php/http/www.inria.fr/var/inria/storage/images/medias/le-saviez-vous/images-chapo/open-world-forum-2012/568146-1-fre-FR/open-world-forum-2012_vignette.jpg)
 L'[Open World Forum](http://www.openworldforum.org/), événement dédié à
 l'écosystème du libre et à la société numérique ouverte organisé par le
 pôle Systematic, a permis, comme chaque année, à nombre d'entre nous de
@@ -40,10 +38,7 @@ l'intérêt et au prestige de l'événement.
 Merci à tous pour votre participation. L'édition 2013 commence à se
 préparer dès aujourd'hui : n'hésitez pas à nous contacter pour nous
 faire part de vos suggestions ou de vos propositions de participation à
-l'organisation. Notre souhait est de permettre à tous les membres du GT
-de participer ; n'oubliez pas que cela se travaille le plus en amont
-possible en proposant du contenu de qualité adapté aux attentes de
-l'audience de l'événement.
+l'organisation. 
 
 Stefane Fermigier, Pdt du GTLL
 
@@ -171,8 +166,7 @@ votre contact Systematic pour les appels à projets FUI.
 ### Appels à projets européens
 
 Votre contact Systematic pour projet les projets européens : [Isabelle
-de
-Sutter](mailto:i.desutter@systematic-paris-region.org)
+de Sutter](mailto:i.desutter@systematic-paris-region.org)
 
 #### FP7 ICT Call 10
 
@@ -269,21 +263,21 @@ sur l'urgence et la nécessité d'enseigner le logiciel libre en France.
 
 ## Evènements à venir
 
-#### JS.everywhere - Paris 75010 - 16 et 17 novembre 2012
+### JS.everywhere - Paris 75010 - 16 et 17 novembre 2012
 
 Cet événement est dédié à la promotion de javascript en entreprise.
 Première édition de l'événement, organisé par 4D, membre du GTLL, en
 Europe. [Programme, accès et inscription en
 ligne](http://jseverywhere.eu/)
 
-#### ![image](https://d2q0qd5iz04n9u.cloudfront.net/_ssl/proxy.php/http/gallery.mailchimp.com/c4bc0c0ef370d70cee048fe3c/images/icone_systematicb1b5270a9ab4.JPG) Data Tuesday - Paris - 20 Novembre
+### Data Tuesday - Paris - 20 Novembre
 
 A l'INSEE dans le grand amphithéatre de l'ENSAE, à partir de 18h30.
 Plusieurs thèmes seront abordés en lien notamment avec les données de
 type "statistiques". [Programme, accès et inscription en
 ligne](http://fr.amiando.com/SDCZEBU.html?page=856785)
 
-#### Conférence Irill : Une introduction informelle aux méthodes formelles - Paris 75013 - 21 Novembre 2012
+### Conférence Irill : Une introduction informelle aux méthodes formelles - Paris 75013 - 21 Novembre 2012
 
 Prof. Roberto Bagnara de l'Université de Parma viendra présenter une
 introduction informelle aux méthodes formelles de 10h à 12h. Cette
@@ -293,13 +287,13 @@ Elle est proposée par un chercheur qui se soucie de travailler avec les
 entreprises. [Plus
 d'information](http://www.irill.org/events/une-introduction-informelle-aux-methodes-formelles-par-prof.-roberto-bagnara-universite-de-parma)
 
-#### ![image](https://d2q0qd5iz04n9u.cloudfront.net/_ssl/proxy.php/http/gallery.mailchimp.com/c4bc0c0ef370d70cee048fe3c/images/icone_systematicb1b5270a9ab4.JPG) Journée du logiciel libre et de l'innovation ouverte - Bordeaux - 21 Novembre 2012 
+### Journée du logiciel libre et de l'innovation ouverte - Bordeaux - 21 Novembre 2012 
 
 Plusieurs tables rondes intéressantes et auxquelles participeront des
 membres du GTLL. [Programme, accès et inscription en
 ligne](http://pole-aquinetic.fr/21-11-12)
 
-#### ![image](https://d2q0qd5iz04n9u.cloudfront.net/_ssl/proxy.php/http/gallery.mailchimp.com/c4bc0c0ef370d70cee048fe3c/images/icone_systematicb1b5270a9ab4.JPG) Journée Ambition PME - Paris 75006 - 22 novembre 2012
+### Journée Ambition PME - Paris 75006 - 22 novembre 2012
 
 4e édition de la Journée AMBITION PME. Echanges autour des enjeux de
 développement des entreprises innovantes, de l'accès aux « grands »
@@ -312,28 +306,28 @@ développement de la filière Logiciel, Systèmes, Electronique & Optique.
 [Programme, accès et inscriptions en
 ligne](http://www.systematic-paris-region.org/fr/evenements/participez-la-4-eme-edition-de-la-journee-ambition-pme)
 
-#### Debian Conf - Paris - 24 et 25 novembre
+### Debian Conf - Paris - 24 et 25 novembre
 
 Conférences et ateliers destinés à toutes les personnes qui
 s'intéressent au projet Debian. L'événement est hébergé par l'EPITA
-(membre du GTLL) et soutenu par Logilab. [Plus
+et soutenu par Logilab (2 membres du GTLL). [Plus
 d'information](http://fr2012.mini.debconf.org/)
 
-#### OpenStack in Action 3 - Paris Eurosite Republique - 29 Novembre
+### OpenStack in Action 3 - Paris Eurosite Republique - 29 Novembre
 2012
 
 Un événement destiné à toutes les personnes qui s'intéressent au projet
 OpenStack, organisé par eNovance, membre du GTLL. [Plus
 d'information](http://openstackinaction3theopenrevolution.eventbrite.com/)
 
-#### Appel à conférence sysadmin \#4 - 28 Février et 1 Mars 2013
+### Appel à conférence sysadmin \#4 - 28 Février et 1 Mars 2013
 
 [Plus
 d'information](http://blog.asyd.net/2012/11/reappel-a-conference-pour-sysadmin-4/)
 
 ## International
 
-#### Compte rendu de la mission US de septembre 2012
+### Compte rendu de la mission US de septembre 2012
 
 Zenika, membre du GTLL a participé à cette mission. Si vous souhaitez
 connaître les initiatives d'accompagnement prospection à l'international
@@ -380,5 +374,9 @@ Julien Marboutin, Isabelle Desutter, Sylvestre Ledru.
 Vous voulez contribuer à la prochaine newsletter de novembre ? Relayer
 une information ? [Dîtes le
 nous](mailto:j.marboutin@systematic-paris-region.org).
+
+Si le contenu de cette newsletter vous semble pertinent, vous pouvez
+proposer à vos contacts (amis, clients, collègues...) de s'y abonner sur
+[ce lien](http://eepurl.com/kqFVT).
 
 
